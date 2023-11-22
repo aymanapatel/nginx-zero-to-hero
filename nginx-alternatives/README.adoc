@@ -1,0 +1,12 @@
+= Nginx Alternative
+
+
+
+== OpenResty
+
+> Not alterntative per se, but a library on top of Nginx
+
+
+== HAProxy
+
+== Caddy Web Server
